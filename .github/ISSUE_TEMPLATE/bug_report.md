@@ -9,7 +9,6 @@ assignees: ''
 
 **Platform:** 
 **Device:** 
-**Kernel version:** 
 **Android version:** 
 
 **Previously working on**
