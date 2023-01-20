@@ -11,13 +11,6 @@ assignees: ''
 **Device:** 
 **Android version:** 
 
-**Previously working on**
-Has this always been a problem, or is it a new issue?
-<!-- Please be specific. Include things like previous sync and build date,
-the latest known working kernel version including commit id and any other
-information that may be relevant. If possible and applicable, include such
-information from other repositories too (device, platform or hardware). -->
-
 **Description**
 Write the issue description here.
 
