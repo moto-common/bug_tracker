@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to fix issues
 title: ''
-labels: bug, needs-triage
+labels: bug
 assignees: ''
 
 ---
@@ -11,7 +11,6 @@ assignees: ''
 **Device:** 
 **Kernel version:** 
 **Android version:** 
-**Software binaries version:** 
 
 **Previously working on**
 Has this always been a problem, or is it a new issue?
