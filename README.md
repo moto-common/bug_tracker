@@ -11,8 +11,8 @@ This is the Bug Tracker for Moto-Common project.
 - Press "Issues" button
 - Press the "[New Issue](https://github.com/sonyxperiadev/bug_tracker/issues/new/choose)" button
 - Fill in the issue template mentioning the following items:
+  - Platform
   - Device
-  - Kernel version
   - Android version
   - The issue and steps to reproduce the issue
   - Logs if available
